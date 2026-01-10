@@ -43,7 +43,7 @@ export default function PhotoGallery({ onNext }) {
                 <h1 className="text-4xl md:text-6xl py-1 md:py-2 font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-purple-400 to-indigo-400 mb-6">
                 Moments with You 
                 </h1>
-                <p className="text-xl text-purple-300">Beautiful moments with Madam Jii 📸</p>
+                <p className="text-xl text-purple-300">Upcoming Beautiful moments with Madam Jii 📸</p>
             </motion.div>
 
             {/* Cube Gallery */}
